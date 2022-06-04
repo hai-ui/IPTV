@@ -75,3 +75,5 @@ http://198.204.239.194:27347/livehlsplay?channel_id=20099
 http://198.204.239.194:27347/livehlsplay?channel_id=30026
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",VIUTV
 http://198.204.239.194:27347/livehlsplay?channel_id=30032
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="" group-title="台湾",美亚电影
+http://iptv12k.com:35461/live/test167/12345/1260.m3u8
